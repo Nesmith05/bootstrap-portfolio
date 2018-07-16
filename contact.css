@@ -1,0 +1,33 @@
+.navbar {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #ffffff;
+    border-bottom-color: #777777;
+    border-bottom-color: #777777;
+    width: 100%;
+}
+
+.heading {
+    font-family:'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #dddddd;
+    padding-bottom: 10px;
+}
+
+.panel-body {
+    background-color: #ffffff;
+    border: #dddddd solid 2px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    position: relative;
+    overflow: hidden;
+}
+
+.button {
+    background-color: #4aaaa5;
+}
+
+#contact {
+    padding: 50px;
+}
